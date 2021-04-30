@@ -1,16 +1,26 @@
-### Hi there 👋
+Hello, I'm Md Nadim Mahmud
+🚀Junior Web Developer | Front End Developer | MERN Developer 🚀
 
-<!--
-**nadimnil/nadimnil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻  About Me
+🤔   Exploring new technologies and developing software solutions and quick hacks.
+🎓   Study Bsc In CSE Al Madinah International University,Malaysia.
+💼   Internship Complete From Vyrox International Sdn Bhd.
+🌱   Learning more about Sowfware design and development.
+✍️   Developing Software and travelling is my hobbit.
+🛠  Tech Stack
+🌐   HTML5 CSS JavaScript React Bootstrap Node.js Asp.Net MSSQL 
 
-Here are some ideas to get you started:
+🛢   MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️   Git GitHub
+
+🔧   Visual Studio Code 
+
+🖥 Visual Studio Code Studio
+
+🤝🏻  Connect with Me
+🌐 Portfolio Website Link 🌐
+
+https://portfolio-of-md-nadim-mahmud.netlify.app/ LinkedIn Instagram Email
+
+⭐️ From masud309060😃
